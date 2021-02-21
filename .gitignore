@@ -33,3 +33,6 @@
 
 # WASM
 /target
+
+# Visual Studio
+/.vs

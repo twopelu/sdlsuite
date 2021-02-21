@@ -37,6 +37,8 @@ python -m http.server --directory target
 
 # node sdl_suite.html
 # START chrome http://localhost:8000/sdl_suite.html
+
+emrun --port 8080 target/sdl_suite.html
 ```
 
 ----
